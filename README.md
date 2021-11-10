@@ -18,7 +18,7 @@ Usei o IDE "Visual Studio Code" para escrever o código e usar o terminal. O pro
 
 ## Overview :mag:
 
-![](C:\Users\programacao05\Downloads\pomodoro.gif)
+![](https://i.imgur.com/3Adedaw.gif)
 
 
 
